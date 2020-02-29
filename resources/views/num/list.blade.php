@@ -1,0 +1,1 @@
+<a href="{{url('/n/crea')}}">用户管理</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="">货物管理</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="">出入库记录管理</a>
